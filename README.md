@@ -40,4 +40,4 @@ python main.py
 
 ## Author
 
-Your Name
+Chirag Jain
